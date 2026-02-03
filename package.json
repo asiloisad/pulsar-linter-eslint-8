@@ -127,7 +127,6 @@
     }
   },
   "dependencies": {
-    "atom-linter": "^10.0.0",
     "eslint": "^8.11.0",
     "loophole": "1.1.0"
   },
