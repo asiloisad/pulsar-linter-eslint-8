@@ -1,7 +1,1 @@
-/build/
-/dist/
 /node_modules/
-/spec/**/*.js.gz
-/spec/**/*-xxxx.js
-/.nyc_output/
-/package-lock.json
