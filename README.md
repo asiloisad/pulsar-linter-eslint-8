@@ -1,4 +1,4 @@
-# linter-eslint-8
+# linter-eslintx
 
 ESLint v8 linter provider. Lints JavaScript files using project-level `.eslintrc.*` configuration files. Package used linter top-level API to visualize errors and other types of messages with ease.
 
@@ -14,13 +14,13 @@ ESLint v8 linter provider. Lints JavaScript files using project-level `.eslintrc
 
 ## Installation
 
-To install `linter-eslint-8` search for [linter-eslint-8](https://web.pulsar-edit.dev/packages/linter-eslint-8) in the Install pane of the Pulsar settings or run `ppm install linter-eslint-8`. Alternatively, you can run `ppm install asiloisad/pulsar-linter-eslint-8` to install a package directly from the GitHub repository.
+To install `linter-eslintx` search for [linter-eslintx](https://web.pulsar-edit.dev/packages/linter-eslintx) in the Install pane of the Pulsar settings or run `ppm install linter-eslintx`. Alternatively, you can run `ppm install asiloisad/pulsar-linter-eslintx` to install a package directly from the GitHub repository.
 
 ## Commands
 
 Commands available in `atom-workspace`:
 
-- `linter-eslint-8:reload`: reset the ESLint engine and re-lint open files.
+- `linter-eslintx:reload`: reset the ESLint engine and re-lint open files.
 
 ## Contributing
 
